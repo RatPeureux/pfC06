@@ -1,1 +1,2 @@
-### à modifier
+# Projet 2 du second semestre
+Dans ce projet, il nous était demandé de choisir une organisation sur laquelle nous devions faire des recherches, puis la présenter avec Canva, dans sa dimension économique (grille des caractéristiques de l’organisation et diagnostic externe) et dans ce qui relève de la RSE, avec un intérêt particulier sur les moyens qu'elle met en œuvre pour réduire son empreinte écologique du numérique.
